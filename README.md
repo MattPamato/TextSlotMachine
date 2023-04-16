@@ -1,3 +1,3 @@
-#Text Based Slot Machine
+# Text Based Slot Machine
 
-##Description:
+## Description:
